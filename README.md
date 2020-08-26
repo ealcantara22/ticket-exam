@@ -4,6 +4,8 @@ This is a test exam to be done as part of the recruitment processes at Net Tech 
 
 The test has a time to completion of **7 days** after the initial email is sent by one of our members.
 
+**IMPORTANT: THE COMPLETION OF THIS TEST DOES NOT GUARANTEE THE SECONDARY INTERVIEW IN OUR FACILITIES**
+
 ### Test
 
 The test consists of a basic **Ticket System** which includes the following modules:
@@ -67,6 +69,7 @@ In order for you to get more points on this test, you have the **option** to per
 6. Form Validations (Back End and Front End)
 7. Code Complexity Analisis
 8. Documentation
+9. Using **Docker**
 
 ### Submission
 
@@ -76,8 +79,12 @@ In order for the submission of the test to be successful you need to perform the
 2. All the code must be hosted under your personal GitHub account.
 3. If a database is used, make sure to provide the initial structure for it as well (also inside your repository)
 4. There must be a README.md in the root of your repository explaining in detail how to run your application.
+**IMPORTANT**
+- **NOTE THAT IF YOU LEAVE OUT CRUCIAL DETAILS ON HOW TO SETUP YOUR APPLICATION WE MAY NOT BE ABLE TO TEST IT.**
+- **ALSO TAKE INTO CONSIDERATION THAT THIS APPLICATION WILL NOT RUN ON YOUR COMPUTER, IT WILL RUN ON SOMEONE ELSE'S. (i.e: Avoid hard coding things like  'localhost' or other type of urls!)**
+- **AS A COMMON PRACTICE, TRY TO MAKE YOUR SETUP AS USER FRIENDLY AND AS EASY AS POSSIBLE. WE MAY ASSIGN SOMEONE WHO'S NOT A PROGRAMMER TO SETUP YOUR APPLICATION AS PART OF THE EVALUATION.**
+- **DOCUMENTATION IS VERY IMPORTANT.**
 5. When ready to submit, reply to the pre-existent email trail with the link to your repository.
-
 
 ### Questions
 
